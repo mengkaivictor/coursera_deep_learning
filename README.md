@@ -1,1 +1,2 @@
-# deep_learning
+# Coursera deep learning course
+## from Andrew Ng
